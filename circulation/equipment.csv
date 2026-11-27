@@ -1,0 +1,11 @@
+asset_id,category,borrower,due_on,replacement_usd,loan_class,revision
+EQ-301,Camera,Ana Vale,2027-08-01,450.00,priority,1
+EQ-302,Projector,Beau Kim,2027-08-05,200.00,standard,1
+EQ-303,Tablet,Cy Noor,2027-08-06,80.00,standard,1
+EQ-304,Recorder,Ana Vale,2027-08-03,120.00,priority,1
+EQ-305,Microphone,Dana Li,2027-08-02,60.00,standard,1
+EQ-306,Tripod,Eli Ross,2027-08-08,110.00,priority,1
+EQ-302,Projector, Beau Kim ,2027-08-05,210.00,standard,2
+EQ-303,Tablet,Cy Noor,2027-02-30,85.00,standard,3
+EQ-307,Light,Fin Ash,2027-08-04,090.00,standard,1
+bad-row
